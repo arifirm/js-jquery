@@ -1,6 +1,6 @@
 # CRUD dan LiveSearch menggunakan jQuery
 
-loader animation from Pixilart
+loader animation from wikipedia
 ![loader](https://user-images.githubusercontent.com/110081304/188064630-a2c2ebe6-88bd-4d2b-9642-2c7867268bda.gif)
 
 CRUD sederhana dengan Fitur LiveSearching menggunakan JavaScript danJQuery. LiveSearching sendiri adalah fitur search bisa/tanpa menggunakan tombol 'search/cari'.
