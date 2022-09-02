@@ -14,4 +14,4 @@ Fitur LiveSearching akan secara instan mencari data yang diinginkan disaat user 
 
 ## Requirements
 - [jQuery](https://jquery.com/download/)
-- [Loader Animation](https://www.pixilart.com/art/loading-gif-7badccc6206bf0f)
+- https://www.google.com/search?q=loader+gif&oq=loadeer&aqs=chrome.3.69i57j0i10i433j46i10j0i10l2j46i10i199i465j0i10l4.7269j0j7&sourceid=chrome&ie=UTF-8#
